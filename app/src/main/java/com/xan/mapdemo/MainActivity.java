@@ -35,7 +35,7 @@ import com.google.android.gms.tasks.OnSuccessListener;
 
 public class MainActivity extends AppCompatActivity {
 
-
+//hello
     Button gomap;
     private static final  int Permission_request_code = 99;
 
